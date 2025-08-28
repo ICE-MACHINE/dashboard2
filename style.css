@@ -21,7 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 20px 0;
+  padding: 5px 0;
   position: fixed;
   height: 100%;
 }
@@ -50,9 +50,11 @@ body {
 
 .a ul {
   list-style: none;
-  margin-top: 30px;
+  overflow-y: auto;
 }
-
+::-webkit-scrollbar{
+    display: none;
+}
 .a ul li {
   margin: 15px 0;
 }
