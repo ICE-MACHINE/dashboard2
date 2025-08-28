@@ -33,10 +33,7 @@ No external installations required. Just clone the repository and open `index.ht
 
 ## 🌐 Demo
 
-
-```
 [Live Demo](https://username.github.io/dashboard2)
-```
 
 ---
 
